@@ -1,8 +1,8 @@
 {
-    "ownerNumber": "6283834558105@s.whatsapp.net", 
-    "ownerName": "Lexxy Official", 
-    "botName": "Neobot",
-    "footer": "© BOTMD | 2022", 
+    "ownerNumber": "628998849057@s.whatsapp.net", 
+    "ownerName": "Owner Bot", 
+    "botName": "Freak_Botz",
+    "footer": "© Freak_MD", 
     "sessionName": "session", 
     "pathimg": "./media/logo.jpg", 
     "pathqris": "./media/qris.jpg",
@@ -11,7 +11,7 @@
     "limitGame": 35,
     "gamewaktu": 90,
     "sticker": {
-        "packname": "© Store",
-        "author": "Lexxy Official"
+        "packname": "© FreakMD",
+        "author": "Zee04"
     }
 }
